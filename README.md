@@ -47,6 +47,10 @@ npm start
 ## 📸 Screenshots  
 ![Profile Explorer UI](public/screenshot.png)  
 
+<img width="960" alt="profile-explorer" src="https://github.com/user-attachments/assets/7082909e-0fcb-45db-8940-2d7a0e5efa6a" />
+
+
+
 ## 🛠️ Technologies Used  
 - React.js - Frontend UI  
 - Google Maps API - Interactive Maps  
