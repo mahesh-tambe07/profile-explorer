@@ -1,0 +1,116 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+.profile-title {
+  font-family: 'Montserrat', sans-serif; /* Premium bold font */
+  font-size: 50px; /* Bigger heading */
+  font-weight: 900;
+  text-align: center;
+  color: #ffffff; /* White text */
+  text-shadow: 4px 4px 20px rgba(25, 223, 206, 0.6);
+  background: linear-gradient(135deg, #ff512f, #dd2476); /* Premium gradient */
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #23d2c4;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(15px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* Import Font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+/* Set Full Page Background */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #121212, #1e1e1e, #2a2a2a); /* Dynamic dark shades */
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Stylish Title */
+.profile-title {
+  font-family: 'Montserrat', sans-serif; /* Premium bold font */
+  font-size: 50px; /* Bigger heading */
+  font-weight: 900;
+  text-align: center;
+  color: #ffffff; /* White text */
+  text-shadow: 4px 4px 20px rgba(0, 0, 0, 0.6);
+  background: linear-gradient(135deg, #ff512f, #dd2476); /* Premium gradient */
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+/* Profile Card Styling */
+.profile-card {
+  background: powderblue; /* Transparent glass effect */
+  border-radius: 15px;
+  padding: 20px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0px 0px 15px rgba(186, 19, 19, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.profile-card:hover {
+  transform: scale(1.05);
+}
+
+/* Button Styling */
+button {
+  background: linear-gradient(45deg, #ff416c, #ff4b2b);
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: linear-gradient(45deg, #ff4b2b, #ff416c);
+  transform: scale(1.1);
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
