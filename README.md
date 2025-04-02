@@ -45,10 +45,8 @@ npm start
 ✔️ Built with React, Material UI, and Google Maps API
 
 ## 📸 Screenshots  
-![Profile Explorer UI](public/screenshot.png)  
 
-
-
+<img width="960" alt="profile-explore" src="https://github.com/user-attachments/assets/05c47ca2-022d-4d4c-a396-6ccf6c276063" />
 
 ## 🛠️ Technologies Used  
 - React.js - Frontend UI  
