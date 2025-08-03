@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+《<<<<<<< HEAD
 # profile-explorer
 =======
 Here’s the **complete, ready-to-use `README.md`** file. Just **copy, paste, and edit your details** before submitting! 🚀  
